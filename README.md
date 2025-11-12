@@ -1,62 +1,40 @@
 # Título do projeto
 
-Um simples resumo do uso/propósito do projeto.
+Projeto análise telemarketing
 
 ## Descrição do projeto
 
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
+Este projeto foca na análise exploratória de dados (EDA) e na aplicação de técnicas de modelagem simples sobre um dataset de campanhas de telemarketing. O objetivo principal é desvendar os principais fatores e padrões de comportamento que influenciam a decisão do cliente em aceitar ou rejeitar a oferta (conversão).
+
+## Link de acesso da aplicação
+[https://telemarketing-4n7a.onrender.com/]
 
 ## Utilização
 
 ### Dependencias
 
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
+* Python
+* Streamlit
+* Pandas
 
 ### Instalação
 
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
+* Faça o download desse repositório em qualquer local de sua máquina
 
 ### Executando o projeto
 
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
+* Através do cmd ou qualquer outro shell, execute o comando ```streamlit run app.py```.
 
 ## Ajuda
 
-Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
+Caso enfrente quaisquer problemas pode me contatar em minhas redes sociais.
 
 ## Autores
 
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
-
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
+Antonio Junior
+[@antoniomourajr](https://www.linkedin.com/in/antoniomourajr/)
 
 ## Histórico de versões.
 
-* 0.2
-	* Ajustes de diversos bugs e otimização
 * 0.1
     * Primeira versão
-
-## Licença de uso
-
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
-
-## Fontes de inspiração
-
-Inspiração, trechos de códigos utilizados, etc.
-* [readme-template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
